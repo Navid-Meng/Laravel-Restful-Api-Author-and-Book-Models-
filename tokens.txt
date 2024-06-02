@@ -1,0 +1,5 @@
+{
+    "admin": "1|tmrDNfmrEMjYOQdUA6q2agEe09YRkdZ83v4ImqP2c2b86f7e",
+    "update": "2|utiGSK8gQjlGGiOTqqFS8EK6vWDg1t0xbLzlZIBIcdebc223",
+    "basic": "3|pSjUxPtE6fq8H1Zyy4XcAZ1tlSr6cBRWeRQfVftg4f46607d"
+}
